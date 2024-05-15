@@ -25,7 +25,6 @@ public class WaitMethods {
      *
      * This method is annotated with @Before, indicating that it will be executed before each test method.
      * It initializes the WebDriver object for the Edge browser and navigates to the specified URL.
-     * Adjust the screen to be in fullscreen mode.
      * It makes a valid login to reach the inventory page
      */
     @Before
